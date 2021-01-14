@@ -44,3 +44,9 @@
   ![LCD](img/LCD.png)
 
   * Signs appear here ( Shoot / Congratulatios / No goal )
+
+## Contributor
+
+- 정재원
+- 김진표
+- 안아노
